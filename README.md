@@ -26,24 +26,24 @@ Experimental results show the superiority of our method over existing baselines,
   <td colspan="2">"Pyro sparklers ice fire celebration fireworks"</td>
   <tr>
   <td>
-    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video_16_depth/007451_007500__14878396.mp4" />
+    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video_16_depth/007451_007500__14878396.mp4"></video>
   </td>
   <td>
-    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video_16/007451_007500__14878396.mp4" />
-  </td>
-
-  <td>
-    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video_16_depth/009201_009250__19064863.mp4" />
-  </td>
-  <td>
-    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video_16/009201_009250__19064863.mp4" />
+    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video_16/007451_007500__14878396.mp4"></video>
   </td>
 
   <td>
-    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video_16_depth/002401_002450__17741461.mp4" />
+    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video_16_depth/009201_009250__19064863.mp4"></video>
   </td>
   <td>
-    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video_16/002401_002450__17741461.mp4" />
+    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video_16/009201_009250__19064863.mp4"></video>
+  </td>
+
+  <td>
+    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video_16_depth/002401_002450__17741461.mp4"></video>
+  </td>
+  <td>
+    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video_16/002401_002450__17741461.mp4"></video>
   </td>
 </tr>
 </table >
@@ -55,24 +55,24 @@ Experimental results show the superiority of our method over existing baselines,
   <td colspan="2">"Burning grass of the field in thailand"</td>
   <tr>
   <td>
-    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video_32_depth/069301_069350__27453052.mp4" />
+    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video_32_depth/069301_069350__27453052.mp4"></video>
   </td>
   <td>
-    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video_32/069301_069350__27453052.mp4" />
-  </td>
-
-  <td>
-    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video_32_depth/027551_027600__1039433363.mp4" />
-  </td>
-  <td>
-    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video_32/027551_027600__1039433363.mp4" />
+    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video_32/069301_069350__27453052.mp4"></video>
   </td>
 
   <td>
-    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video_32_depth/096701_096750__34693771.mp4" />
+    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video_32_depth/027551_027600__1039433363.mp4"></video>
   </td>
   <td>
-    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video_32/096701_096750__34693771.mp4" />
+    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video_32/027551_027600__1039433363.mp4"></video>
+  </td>
+
+  <td>
+    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video_32_depth/096701_096750__34693771.mp4"></video>
+  </td>
+  <td>
+    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video_32/096701_096750__34693771.mp4"></video>
   </td>
 </tr>
 </table >
@@ -84,17 +84,17 @@ Experimental results show the superiority of our method over existing baselines,
   <td colspan="4">"A dam discharging water"</td>
   <tr>
   <td>
-    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/real-life/dam_input.mp4" />
+    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/real-life/dam_input.mp4"></video>
   </td>
   <td>
-    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/real-life/dam_ours.mp4" />
+    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/real-life/dam_ours.mp4"></video>
   </td>
 
   <td>
-    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/real-life/dam_t2vzero.mp4" />
+    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/real-life/dam_t2vzero.mp4"></video>
   </td>
   <td>
-    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/real-life/dam_lvdm.mp4" />
+    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/real-life/dam_lvdm.mp4"></video>
   </td>
 
 </tr>
@@ -102,17 +102,17 @@ Experimental results show the superiority of our method over existing baselines,
   </td>
   <tr>
   <td>
-    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/real-life/rocket_input.mp4" />
+    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/real-life/rocket_input.mp4"></video>
   </td>
   <td>
-    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/real-life/rocket_ours.mp4" />
+    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/real-life/rocket_ours.mp4"></video>
   </td>
 
   <td>
-    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/real-life/rocket_t2vzero.mp4" />
+    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/real-life/rocket_t2vzero.mp4"></video>
   </td>
   <td>
-    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/real-life/rocket_lvdm.mp4" />
+    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/real-life/rocket_lvdm.mp4"></video>
   </td>
 </tr>
 			   		<tr style="font-weight: bolder;">
@@ -128,17 +128,17 @@ Experimental results show the superiority of our method over existing baselines,
   <td colspan="4">"A train on the rail, 2D cartoon style"</td>
   <tr>
   <td>
-    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/3dmodeling/train_input.mp4" />
+    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/3dmodeling/train_input.mp4"></video>
   </td>
   <td>
-    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/3dmodeling/train_ours.mp4" />
+    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/3dmodeling/train_ours.mp4"></video>
   </td>
 
   <td>
-    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/3dmodeling/train_t2vzero.mp4" />
+    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/3dmodeling/train_t2vzero.mp4"></video>
   </td>
   <td>
-    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/3dmodeling/train_lvdm.mp4" />
+    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/3dmodeling/train_lvdm.mp4"></video>
   </td>
 
 </tr>
@@ -146,17 +146,17 @@ Experimental results show the superiority of our method over existing baselines,
   </td>
   <tr>
   <td>
-    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/3dmodeling/book_input.mp4" />
+    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/3dmodeling/book_input.mp4"></video>
   </td>
   <td>
-    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/3dmodeling/book_ours.mp4" />
+    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/3dmodeling/book_ours.mp4"></video>
   </td>
 
   <td>
-    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/3dmodeling/book_t2vzero.mp4" />
+    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/3dmodeling/book_t2vzero.mp4"></video>
   </td>
   <td>
-    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/3dmodeling/book_lvdm.mp4" />
+    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/3dmodeling/book_lvdm.mp4"></video>
   </td>
 </tr>
 
@@ -165,17 +165,17 @@ Experimental results show the superiority of our method over existing baselines,
   </td>
   <tr>
   <td>
-    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/3dmodeling/mountain_input.mp4" />
+    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/3dmodeling/mountain_input.mp4"></video>
   </td>
   <td>
-    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/3dmodeling/mountain_ours.mp4" />
+    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/3dmodeling/mountain_ours.mp4"></video>
   </td>
 
   <td>
-    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/3dmodeling/mountain_t2vzero.mp4" />
+    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/3dmodeling/mountain_t2vzero.mp4"></video>
   </td>
   <td>
-    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/3dmodeling/mountain_lvdm.mp4" />
+    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/3dmodeling/mountain_lvdm.mp4"></video>
   </td>
 </tr>
 			   		<tr style="font-weight: bolder;">
@@ -191,46 +191,46 @@ Experimental results show the superiority of our method over existing baselines,
   <td colspan="6">"A tiger walks in the forest, photorealistic"</td>
   <tr>
   <td>
-    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video-rerendering/bear_input.mp4" />
+    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video-rerendering/bear_input.mp4"></video>
   </td>
   <td>
-    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video-rerendering/bear_ours.mp4" />
+    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video-rerendering/bear_ours.mp4"></video>
   </td>
 
   <td>
-    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video-rerendering/bear_sddepth.mp4" />
+    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video-rerendering/bear_sddepth.mp4"></video>
   </td>
   <td>
-    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video-rerendering/bear_t2vzero.mp4" />
+    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video-rerendering/bear_t2vzero.mp4"></video>
   </td>
   <td>
-    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video-rerendering/bear_lvdm.mp4" />
+    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video-rerendering/bear_lvdm.mp4"></video>
   </td>
   <td>
-    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video-rerendering/bear_tav.mp4" />
+    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video-rerendering/bear_tav.mp4"></video>
   </td>
 </tr>
   <td colspan="6">"An origami boat moving on the sea"
   </td>
   <tr>
   <td>
-    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video-rerendering/boat_input.mp4" />
+    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video-rerendering/boat_input.mp4"></video>
   </td>
   <td>
-    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video-rerendering/boat_ours.mp4" />
+    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video-rerendering/boat_ours.mp4"></video>
   </td>
 
   <td>
-    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video-rerendering/boat_sddepth.mp4" />
+    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video-rerendering/boat_sddepth.mp4"></video>
   </td>
   <td>
-    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video-rerendering/boat_t2vzero.mp4" />
+    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video-rerendering/boat_t2vzero.mp4"></video>
   </td>
   <td>
-    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video-rerendering/boat_lvdm.mp4" />
+    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video-rerendering/boat_lvdm.mp4"></video>
   </td>
   <td>
-    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video-rerendering/boat_tav.mp4" />
+    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video-rerendering/boat_tav.mp4"></video>
   </td>
 </tr>
 
@@ -239,23 +239,23 @@ Experimental results show the superiority of our method over existing baselines,
   </td>
   <tr>
   <td>
-    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video-rerendering/camel_input.mp4" />
+    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video-rerendering/camel_input.mp4"></video>
   </td>
   <td>
-    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video-rerendering/camel_ours.mp4" />
+    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video-rerendering/camel_ours.mp4"></video>
   </td>
 
   <td>
-    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video-rerendering/camel_sddepth.mp4" />
+    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video-rerendering/camel_sddepth.mp4"></video>
   </td>
   <td>
-    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video-rerendering/camel_t2vzero.mp4" />
+    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video-rerendering/camel_t2vzero.mp4"></video>
   </td>
   <td>
-    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video-rerendering/camel_lvdm.mp4" />
+    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video-rerendering/camel_lvdm.mp4"></video>
   </td>
   <td>
-    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video-rerendering/camel_tav.mp4" />
+    <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video-rerendering/camel_tav.mp4" ></video>
   </td>
 </tr>
 			   		<tr style="font-weight: bolder;">
