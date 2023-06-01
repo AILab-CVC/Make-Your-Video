@@ -26,7 +26,7 @@ Experimental results show the superiority of our method over existing baselines,
   <td colspan="2">"Pyro sparklers ice fire celebration fireworks"</td>
   <tr>
   <td>
-https://github.com/VideoCrafter/Make-Your-Video/assets/43002743/526ad22a-9085-47c5-961d-81452e96646a
+    <video autoplay="" loop="" muted="" playsinline="" width="170" src="https://doubiiu.github.io/projects/Make-Your-Video/static/video_16_depth/007451_007500__14878396.mp4"></video>
   </td>
   <td>
     <video autoplay="" loop="" muted="" playsinline="" width="170" src="./assets/video_16/007451_007500__14878396.mp4"></video>
