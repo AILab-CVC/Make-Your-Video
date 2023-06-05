@@ -74,7 +74,13 @@ Experimental results show the superiority of our method over existing baselines,
 ## **Applications**
 ### Real-life scene to video
 <table class="center">
-  <td colspan="4">"A dam discharging water"</td>
+			   		<tr style="font-weight: bolder;text-align:center;">
+						<td>Real-life scene</td>
+						<td>Ours</td>
+						<td>Text2Video-zero+CtrlNet</td>
+						<td>LVDM<sub>Ext</sub>+Adapter</td>
+			   		</tr>
+  
   <tr>
   <td>
     <img src=assets/real-life_GIF/dam_input.gif width="170">
@@ -90,9 +96,9 @@ Experimental results show the superiority of our method over existing baselines,
     <img src=assets/real-life_GIF/dam_lvdm.gif width="170">
   </td>
 </tr>
+<tr><td colspan="4">"A dam discharging water"</td></tr>
+  
 
-  <td colspan="4">"A futuristic rocket ship on a launchpad, with sleek design, glowing lights"
-  </td>
   <tr>
   <td>
     <img src=assets/real-life_GIF/rocket_input.gif width="170">
@@ -108,17 +114,18 @@ Experimental results show the superiority of our method over existing baselines,
     <img src=assets/real-life_GIF/rocket_lvdm.gif width="170">
   </td>
 </tr>
+<tr><td colspan="4">"A futuristic rocket ship on a launchpad, with sleek design, glowing lights"</td></tr>
+</table >
+
+### 3D scene modeling to video
+<table class="center">
 			   		<tr style="font-weight: bolder;text-align:center;">
 						<td>Real-life scene</td>
 						<td>Ours</td>
 						<td>Text2Video-zero+CtrlNet</td>
 						<td>LVDM<sub>Ext</sub>+Adapter</td>
 			   		</tr>
-</table >
-
-### 3D scene modeling to video
-<table class="center">
-  <td colspan="4">"A train on the rail, 2D cartoon style"</td>
+  
   <tr>
   <td>
     <img src=assets/3dmodeling_GIF/train_input.gif width="170">
@@ -134,9 +141,8 @@ Experimental results show the superiority of our method over existing baselines,
     <img src=assets/3dmodeling_GIF/train_lvdm.gif width="170">
   </td>
 </tr>
-
-  <td colspan="4">"A Van Gogh style painting on drawing board in park, some books on the picnic blanket, photorealistic"
-  </td>
+<tr><td colspan="4">"A train on the rail, 2D cartoon style"</td></tr>
+  
   <tr>
   <td>
     <img src=assets/3dmodeling_GIF/book_input.gif width="170">
@@ -152,10 +158,10 @@ Experimental results show the superiority of our method over existing baselines,
     <img src=assets/3dmodeling_GIF/book_lvdm.gif width="170">
   </td>
 </tr>
+<tr><td colspan="4">"A Van Gogh style painting on drawing board in park, some books on the picnic blanket, photorealistic"</td></tr>
 
 </tr>
-  <td colspan="4">"A Chinese ink wash landscape painting"
-  </td>
+  
   <tr>
   <td>
     <img src=assets/3dmodeling_GIF/mountain_input.gif width="170">
@@ -171,17 +177,20 @@ Experimental results show the superiority of our method over existing baselines,
     <img src=assets/3dmodeling_GIF/mountain_lvdm.gif width="170">
   </td>
 </tr>
-			   		<tr style="font-weight: bolder;text-align:center;">
-						<td>Real-life scene</td>
-						<td>Ours</td>
-						<td>Text2Video-zero+CtrlNet</td>
-						<td>LVDM<sub>Ext</sub>+Adapter</td>
-			   		</tr>
+<tr><td colspan="4">"A Chinese ink wash landscape painting"</td></tr>
 </table >
 
 ### Video re-rendering
 <table class="center">
-  <td colspan="6">"A tiger walks in the forest, photorealistic"</td>
+			   		<tr style="font-weight: bolder; text-align:center;">
+						<td>Original video</td>
+						<td>Ours</td>
+						<td>SD-Depth</td>
+						<td>Text2Video-zero+CtrlNet</td>
+						<td>LVDM<sub>Ext</sub>+Adapter</td>
+						<td>Tune-A-Video</td>
+			   		</tr>
+  
   <tr>
   <td>
     <img src=assets/video-rerendering_GIF/bear_input.gif width="170">
@@ -203,9 +212,8 @@ Experimental results show the superiority of our method over existing baselines,
     <img src=assets/video-rerendering_GIF/bear_tav.gif width="170">
   </td>
 </tr>
-
-  <td colspan="6">"An origami boat moving on the sea"
-  </td>
+  <tr><td colspan="6">"A tiger walks in the forest, photorealistic"</td></tr>
+  
   <tr>
   <td>
     <img src=assets/video-rerendering_GIF/boat_input.gif width="170">
@@ -227,10 +235,9 @@ Experimental results show the superiority of our method over existing baselines,
     <img src=assets/video-rerendering_GIF/boat_tav.gif width="170">
   </td>
   </tr>
+  <tr><td colspan="6">"An origami boat moving on the sea"</td></tr>
 
-
-  <td colspan="6">"A camel walking on the snow field, Miyazaki Hayao anime style"
-  </td>
+  
   <tr>
   <td>
     <img src=assets/video-rerendering_GIF/camel_input.gif width="170">
@@ -252,21 +259,11 @@ Experimental results show the superiority of our method over existing baselines,
     <img src=assets/video-rerendering_GIF/camel_tav.gif width="170">
   </td>
   </tr>
-			   		<tr style="font-weight: bolder; text-align:center;">
-						<td>Original video</td>
-						<td>Ours</td>
-						<td>SD-Depth</td>
-						<td>Text2Video-zero+CtrlNet</td>
-						<td>LVDM<sub>Ext</sub>+Adapter</td>
-						<td>Tune-A-Video</td>
-			   		</tr>
+  <tr><td colspan="6">"A camel walking on the snow field, Miyazaki Hayao anime style"</td></tr>
 </table >
 
 ## **Method Overview**
-<!-- <p align="center">
-<img src="./assets/overview_dark.jpg#gh-dark-mode-only" width="100%"/>
-<img src="./assets/overview.jpg#gh-light-mode-only" width="100%"/>
-</p> -->
+
 ![](./assets/overview.jpg#gh-light-mode-only)
 ![](./assets/overview_black.png#gh-dark-mode-only)
 ## **Changelog**
