@@ -7,11 +7,14 @@
 
 
 
+
 _**[Jinbo Xing](https://doubiiu.github.io/), [Menghan Xia*](https://menghanxia.github.io), [Yuxin Liu](), [Yuechen Zhang](https://julianjuaner.github.io/), [Yong Zhang](https://yzhang2016.github.io), [Yingqing He](https://github.com/YingqingHe), [Hanyuan Liu](https://github.com/hyliu), <br>[Haoxin Chen](), [Xiaodong Cun](https://vinthony.github.io/academic/), [Xintao Wang](https://xinntao.github.io/), [Ying Shan](https://scholar.google.com/citations?hl=en&user=4oXBp9UAAAAJ&view_op=list_works&sortby=pubdate), [Tien-Tsin Wong](https://www.cse.cuhk.edu.hk/~ttwong/myself.html)**_
 <br><br>
 (* corresponding author)
 
 From CUHK and Tencent AI Lab.
+
+IEEE TVCG 2024
 </div>
 
 ## 🔆 Introduction
